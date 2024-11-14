@@ -10,3 +10,7 @@ This interactive chart displays license status across counties, showing the dist
 
 - [The Data](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)
 - [The Analysis](https://github.com/moiralala/moiralala.github.io/tree/main/python_notebooks/hw6.ipynb)
+
+![County Visualization1](https://github.com/moiralala/moiralala.github.io/assets/pngs/visualization6-1.png)
+
+![County Visualization2](https://github.com/moiralala/moiralala.github.io/assets/pngs/visualization6-2.png)
